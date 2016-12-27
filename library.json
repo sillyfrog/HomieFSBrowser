@@ -1,0 +1,12 @@
+{
+  "name": "HomieFSBrowser",
+  "keywords": "Homie, SPIFFS, FSBrowser",
+  "description": "Browse the SPIFFS file system alongside Homie",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/sillyfrog/HomieFSBrowser.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "esp8266"
+}

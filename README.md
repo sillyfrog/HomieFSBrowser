@@ -8,7 +8,7 @@ By default provides a web server on port 88, for example at  ```http://homie.loc
 Basically all you need to do is:
 
 ```
-#include <fsbrowser.h>
+#include <HomieFSBrowser.h>
 ```
 
 Then at the end of your ```setup()``` function:
